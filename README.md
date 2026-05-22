@@ -25,6 +25,7 @@ Fork-origin probe:
 
 - This README-only change was made from the controlled maapu-h1-lab fork to trigger metadata-only PR validation.
 - Second fork-origin update after maintainer approval tests whether follow-up commits are approval-gated.
+- Force CI failure for A-004 official-action boundary validation.
 
 Do not add:
 
