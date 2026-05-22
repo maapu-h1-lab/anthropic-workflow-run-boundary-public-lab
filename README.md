@@ -21,6 +21,10 @@ Setup:
 4. Inspect the `Workflow Run Metadata Check` logs.
 5. Repeat from a fork/non-collaborator only if you control that identity.
 
+Fork-origin probe:
+
+- This README-only change was made from the controlled maapu-h1-lab fork to trigger metadata-only PR validation.
+
 Do not add:
 
 - `ANTHROPIC_API_KEY`
